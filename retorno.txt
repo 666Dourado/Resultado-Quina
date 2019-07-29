@@ -1,0 +1,3 @@
+Jogo: 5;9;42;36;71 Resultado: 9;67;68;71;72 - Quantidade de numeros acertados: 2 - Numeros Acertados: 9;71;
+Jogo: 7;19;43;36;45 Resultado: 9;67;68;71;72 - Quantidade de numeros acertados: 0 - Numeros Acertados: 
+Jogo: 9;12;15;78;79 Resultado: 9;67;68;71;72 - Quantidade de numeros acertados: 1 - Numeros Acertados: 9;
